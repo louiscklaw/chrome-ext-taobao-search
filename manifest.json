@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "taobao Search",
+  "short_name": "Search",
+  "description": "Searches for the selected text in the taobao",
+  "version": "0.0.1",
+  "minimum_chrome_version": "38",
+  "permissions": [
+    "contextMenus",
+    "tabs"],
+  "icons": {
+    "16": "assets/taobao_search.resized.16.png"
+  },
+  "background": {"page": "background.html"}
+}
