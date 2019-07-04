@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "taobao Search",
+  "name": "hkstock Search",
   "short_name": "Search",
-  "description": "Searches for the selected text in the taobao",
+  "description": "Searches for the selected text aastock",
   "version": "0.0.1",
   "minimum_chrome_version": "38",
   "permissions": [
